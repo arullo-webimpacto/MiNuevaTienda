@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>guardarpedidoxml</name>
+	<displayName><![CDATA[Pedido XML]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Genere y guarde un archivo XML (con le nombre :  {idpedido}.xml con la información dell pedido (ID , precios y método de pago)  y los productos que tiene (Nombre de productos, ID de producto, ID de combinacion, precios de producto,  y cantidad ) ]]></description>
+	<author><![CDATA[Abraham Rullo de las Heras]]></author>
+	<tab><![CDATA[content_management]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
